@@ -1,7 +1,6 @@
 # Stateful applications on Kubernetes  with the operator pattern
 
-This repository contains the demo from the _Stateful applications on Kubernetes  with the operator pattern_ talk in the [Brno Java Meetup]()
-Tento repository obsahuje demo z prednasky _Stateful aplikace na Kubernetes pomocí operátor patternu_ ze [září 2020 pro Brno Java Meetup](https://www.meetup.com/Brno-Java-Meetup/events/273090874/). The slides used in the talk can be found [here](https://docs.google.com/presentation/d/1RS9xnHdFC3Z-pY_SqxXcj7obUO0HoY56t0e2K8PLY6M/edit?usp=sharing).
+This repository contains the demo from the _Stateful applications on Kubernetes  with the operator pattern_ talk in the [Brno Java Meetup](https://www.meetup.com/Brno-Java-Meetup/events/273090874/). The slides used in the talk can be found [here](https://docs.google.com/presentation/d/1RS9xnHdFC3Z-pY_SqxXcj7obUO0HoY56t0e2K8PLY6M/edit?usp=sharing).
 
 ## Prerequisites
 
